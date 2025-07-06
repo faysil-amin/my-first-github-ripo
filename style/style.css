@@ -8,3 +8,11 @@ p{
     text-align: center;
 
 }
+img{
+    border: 4px solid black;
+    display: inline;
+    transition: .5s;
+}
+img:hover{
+    transform: scale(1.1);
+}
